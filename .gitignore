@@ -1,0 +1,183 @@
+# Directorios de salida de compilación
+bin/
+obj/
+
+ 
+
+# Archivos temporales
+*.user
+*.suo
+*.cache
+*.log
+*.vscode
+[Tt]humbs.db
+[Tt]est[Rr]esult*/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Tt]est[Rr]esults*/
+
+ 
+
+# Visual Studio
+.vscode/
+.vs/
+*.sln.ide
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+ 
+
+# Rider
+.idea/
+
+ 
+
+# Paquetes NuGet
+packages/
+
+ 
+
+# Respaldo de Visual Studio Code
+.vscode
+.history
+
+ 
+
+# Carpeta de análisis de código de Visual Studio
+.vscode-cpptools
+
+ 
+
+# Carpeta de pruebas de NUnit
+[Tt]est[Rr]esult.xml
+
+ 
+
+# Carpeta de publicación de ClickOnce
+publish/
+
+ 
+
+# Archivos de proyecto de Rider
+.idea/
+
+ 
+
+# Carpeta de archivos temporales de Rider
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+.idea/modules.xml
+.idea/vcs.xml
+.idea/vcs/
+.idea/misc.xml
+.idea/caches/
+
+ 
+
+# Carpeta de generación de Rider
+.idea/out/
+
+ 
+
+# Carpeta de información de solución de Rider
+.idea/.sln.iml
+
+ 
+
+# Carpeta de configuración de Rider
+.idea/codestyles/
+.idea/codeStyles/
+.idea/dictionaries/
+.idea/shelf/
+.idea/inspectionProfiles/
+
+ 
+
+# Carpeta de caché de Rider
+.idea/.ideaEditorCaches/
+
+ 
+
+# Carpeta de publicación de Rider
+.idea/rider_publish/
+
+ 
+
+# Carpeta de caché de resaltado de Rider
+.idea/codeStyles/
+.idea/editor.xml
+.idea/fileTemplates/
+
+ 
+
+# Carpeta de configuración de Rider para Visual Studio
+.idea/visualstudio/
+
+ 
+
+# Archivos de respaldo
+*.bak
+
+ 
+
+# Archivos de registro
+*.log
+
+ 
+
+# Directorio de paquetes de npm
+node_modules/
+
+ 
+
+# Directorio de paquetes de Yarn
+yarn.lock
+
+ 
+
+# Directorio de paquetes de pnpm
+pnpm-lock.yaml
+
+ 
+
+# Carpeta de almacenamiento de configuración del usuario (Visual Studio Code)
+.vscode-server/
+
+ 
+
+# Carpeta de almacenamiento de caché del usuario (Visual Studio Code)
+.vscode-oss/
+
+ 
+
+# Carpeta de respaldo de Visual Studio Code
+.vscode-test/
+
+ 
+
+# Directorio de paquetes de NuGet
+*.nupkg
+
+ 
+
+# Carpeta de respaldo de Rider
+.idea/Backup/
+
+ 
+
+# Carpeta de generación de Rider
+.idea/out/
+
+ 
+
+# Carpeta de caché de Rider
+.idea/cache/
+
+ 
+
+# Carpeta de restauración de paquetes de Rider
+.idea/packages/
